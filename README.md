@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AaronTulloch
 - 👀 I’m interested in Software Development/ Mobile Apps
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aaron.a.tulloch@gmail.com
 
